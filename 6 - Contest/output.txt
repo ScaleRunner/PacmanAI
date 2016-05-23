@@ -1,0 +1,4 @@
+<tr class="alt"><th rowspan="4"></th><td rowspan="4" class="score">2199</td><th class="alt">Score</th><td>1442</td> <td>1571</td> <td>1171</td> <td>1559</td> <td>1702</td> <td>3068</td> <td>3783</td> <td>876</td> <td>3429</td> <td>3475</td> <td>2718</td> <td>1601</td></tr>
+<tr><th class="alt">Win/Timeout</th><td>0.9/0.0</td> <td>1.0/0.0</td> <td>0.6/0.0</td> <td>0.9/0.0</td> <td>1.0/0.0</td> <td>0.9/0.0</td> <td>0.9/0.0</td> <td>0.0/0.0</td> <td>0.8/0.0</td> <td>0.9/0.0</td> <td>0.4/0.0</td> <td>0.1/0.0</td><td></td></tr>
+<tr><th class="alt">Moves</th><td>151</td> <td>149</td> <td>137</td> <td>100</td> <td>107</td> <td>257</td> <td>293</td> <td>108</td> <td>458</td> <td>512</td> <td>322</td> <td>197</td></tr>
+<tr><th class="alt">Move Time</th><td>0.101</td> <td>0.098</td> <td>0.083</td> <td>0.007</td> <td>0.007</td> <td>0.011</td> <td>0.031</td> <td>0.178</td> <td>0.066</td> <td>0.065</td> <td>0.056</td> <td>0.059</td></tr>
